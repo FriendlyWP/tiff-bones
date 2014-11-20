@@ -1,0 +1,14 @@
+
+
+#my-menu {
+	background-color:$black;
+
+	&:not( .mm-menu ) {
+	   display: none;
+	}
+
+	a {
+		border: none;
+		color:$white;
+	}
+}

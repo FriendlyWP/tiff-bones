@@ -1,0 +1,31 @@
+/******************************************************************
+Colors
+******************************************************************/
+
+$alert-yellow:      #ebe16f;
+$alert-red:         #fbe3e4;
+$alert-green:       #e6efc2;
+$alert-blue:        #d5edf8;
+
+$black:             #393636;
+$white:             #fff1d0;
+
+$light-gray:        #d7ccb1;
+$gray:              #9c9483;
+
+$red:				#9a1d10;
+
+$yellow:            #fec524;
+
+$green:             #637b4b;
+
+$blue:              #2980b9;
+
+$link-color:        $red;
+$link-hover:        darken($link-color, 9%);
+
+$border-color:      $black;
+$disabled-color:    $light-gray;
+
+$text-color:        $black;
+$meta-color:        $gray;
